@@ -1,0 +1,27 @@
+body {
+  /* Define el fondo degradado utilizando linear-gradient */
+  background: linear-gradient(to bottom, #0003ff, #ffffff);
+
+  /* Estira el degradado para cubrir todo el fondo sin repetir */
+  background-size: cover;
+
+  /* Ajusta el tamaño y el espacio del contenido de la aplicación */
+  width: 100%;
+  height: 100vh;
+  /* 100% del viewport height */
+  display: flex;
+  
+  
+  /* Cambia el color de texto según sea necesario */
+ 
+}
+.contenedor {
+  display: flex; /* Utiliza Flexbox para crear columnas */
+}
+
+/* Estilos para la columna izquierda */
+.columna {
+  flex: 1; /* Ocupa todo el espacio disponible */
+  
+  padding: 20px; /* Espacio interno */
+}

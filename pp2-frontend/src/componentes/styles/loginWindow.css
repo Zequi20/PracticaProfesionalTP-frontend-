@@ -1,0 +1,19 @@
+.window-login {
+
+color: white;
+  background-color: #0003ff;
+  border-radius: 10px;
+  /* Bordes redondeados */
+  border: 1px solid white;
+ 
+  /* Borde blanco */
+  position: absolute;
+  /* Posicionamiento absoluto */
+  top: 50%;
+  /* Centra verticalmente */
+  left: 50%;
+  /* Centra horizontalmente */
+  transform: translate(-50%, -50%);
+  /* Corrige la posición al centro */
+
+}
